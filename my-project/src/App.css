@@ -1,0 +1,171 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.logo {
+    height: 40px;
+}
+
+#NavLink {
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+
+.adtext1 {
+    position: relative;
+    top: 27vh;
+}
+
+.adtext2 {
+    position: relative;
+    bottom: 10vh;
+    line-height: 22px;
+}
+
+#offer {
+
+    background-color: #29363F;
+    height: 600px;
+position: relative;
+
+}
+
+#offer2 {
+    background-color: #202126;
+    height: auto;
+}
+
+#offer3 {
+    display: grid;
+  grid-template-columns: auto auto auto;
+  margin-left: 50px;
+  margin-right: 50px;
+  row-gap: 100px;
+  column-gap: 100px;
+  margin-top: 50px;
+
+}
+
+
+
+
+
+.card-text {
+    color: white;
+}
+
+#card-name {
+    font-size: 23px;
+}
+
+#cardtext {
+    text-align: left;
+    position: absolute;
+    bottom: 27vh;
+    left: 10px;
+}
+
+.cardtext {
+    color: rgb(207, 194, 194);
+}
+
+#cardimage{
+    width: 100%;
+    height: 25vw;
+    object-fit: contain;
+   }
+
+   #form {
+    width: 70vh;
+    position: relative;
+    left: 400px;
+   }
+
+   #form1 {
+    position: relative;
+    top: 40px;
+   }
+
+.cardprice {
+    position: absolute;
+    bottom: 13vh;
+    color: white;
+}
+
+#cardimage1 {
+    position: absolute;
+    right: 50vh;
+    top: 5vh;
+    height: 60vh;
+    object-fit: contain;
+}
+
+#card-name1 {
+    position: absolute;
+    left: 100vh;
+    top: 8vh;
+    font-size: 8vh;
+}
+
+#cardtext1 {
+    color: white;
+    position: absolute;
+    top: 35vh;
+    left: 100vh;
+    font-size: 20px;
+}
+
+
+.cardprice1 {
+    position: absolute;
+    bottom: 26vh;
+    left: 130vh;
+    color: white;
+}
+
+#card-price1 {
+    font-size: 40px;
+}
+
+#btn1 {
+    position: absolute;
+    bottom: 10vh;
+    left: 80vh;
+}

@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "name": "monster pc",
+        "price": "1000kr",
+        "kategori": "pc",
+        "info": "i9 13900k, 32gb ram, 2tb storage, 4090 graphics card,",
+        "img": "/images/genesis-7000-series-system-image.webp"
+    },
+    {
+        "id": "2",
+        "name": "skärm",
+        "price": "1299kr",
+        "kategori": "skärm",
+        "info": "en väldig bra skärm med 170 Hz",
+        "img": "/images/MSI-Optix-G273QF---27_-WQHD-IPS-165-Hz--Gamingskärm.webp"
+    },
+    {
+        "id": "3",
+        "name": "neuron pc",
+        "price": "1200kr",
+        "kategori": "pc",
+        "info": "en väldig bra neuron pc",
+        "img": "/images/neuron-4000d-opc-system-image.webp"
+    },
+    {
+        "id": "4",
+        "name": "graphics card 3090",
+        "price": "799kr",
+        "kategori": "grafikkort",
+        "info": "en sälsynt grafikkort i 3090",
+        "img": "/images/1168414.webp"
+    },
+    {
+        "id": "5",
+        "name": "graphics card 4080",
+        "price": "1299kr",
+        "kategori": "grafikkort",
+        "info": "en super bra grafikkort i 4080",
+        "img": "/images/1205648.webp"
+    },
+    {
+        "id": "6",
+        "name": "ps5 med god of war spel",
+        "price": "1300kr",
+        "kategori": "ps5",
+        "info": "nyaste ps5 som inkluderar god of war spel",
+        "img": "/images/6523225_sd.jpg"
+    },
+    {
+        "id": "7",
+        "name": "origin laptop",
+        "price": "799kr",
+        "kategori": "laptop",
+        "info": "väldigt bra laptop som funkar för både gaming och programmering",
+        "img": "/images/evo16-s-system-image.webp"
+    },
+    {
+        "id": "8",
+        "name": "en färdig setup med pc och skärm",
+        "price": "2099kr",
+        "kategori": "pc",
+        "info": "en hel färdig pc setup med en bra pc, bra skärm, gamingstol och osv",
+        "img": "/images/geforce-frames-win-games-og-image-1200x630.jpg"
+    },
+    {
+        "id": "9",
+        "name": "grafikkort 3090",
+        "price": "12990kr",
+        "kategori": "grafikkort",
+        "info": "kraftfull grafikkort som ger en bra upplevelse",
+        "img": "/images/nedladdning (3).jpg"
+    },
+    {
+        "id": "10",
+        "name": "gaming keyboard 65%",
+        "price": "1990kr",
+        "kategori": "keyboard",
+        "info": "mindre keyboard some ger utrymme och bättre keyboard upplevelse",
+        "img": "/images/next-mx5-mini-tangentbord-for-gaming-svart--pdp_zoom-3000--pdp_main-960.png"
+    },
+    {
+        "id": "11",
+        "name": "GeForce RTX 4080",
+        "price": "1990kr",
+        "kategori": "NVIDIA Gaming GeForce RTX 4080",
+        "info": "nyaste grafikkort som tar spel till annan nivå",
+        "img": "/images/geforce2.jpg"
+    }
+]
